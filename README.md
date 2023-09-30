@@ -1,5 +1,6 @@
 # Gallagher-assesment
-Create a BI Dashboard/Report that would display the sale analysis; please make sure that below requirments are captured in the report					
+Create a BI Dashboard/Report that would display the sale analysis; please make sure that below requirments are captured in the report	
+
 • Load all the three tables and use data modelling to relate the tables					
 • Calculate  revenue contribution of producer (if there is a producer X with 10,000 revenue out of total 100,000; when I select producer X result should show 10%; in the same way with revenue) 					
 • Group the accounts based on revenue as Tier1 (having revenue > 10000), Tier 2(5000 to 10000), Teir 3 (<5000) 					
